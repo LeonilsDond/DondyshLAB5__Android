@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="morning_dew">#C1E5FB</color>
+    <color name="cargantua">#E8F957</color>
+    <color name="pear">#BBE11A</color>
+    <color name="celestial_blue">#86D0FD</color>
+    <color name="havelock">#4891E7</color>
+    <color name="smalt">#042C8F</color>
+
+    <color name="warm_orange">#FFB300</color>
+    <color name="hot_red">#E53935</color>
+
+    <color name="text_primary">#042C8F</color>
+    <color name="text_secondary">#2F5AA8</color>
+
+    <color name="card_fill">#F8FCFF</color>
+    <color name="icon_bg">#EAF6FF</color>
+    <color name="progress_track">#D8ECFA</color>
+</resources>
